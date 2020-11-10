@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "..\\.."
+	},
+	{
+		"path": "..\\..\\..\\react-website-v1-master\\public\\images"
+	},
+	{
+		"path": "..\\..\\..\\react-website-v1-master\\public\\videos"
+	}
+],
+  "settings": {}
+}
