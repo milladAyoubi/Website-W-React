@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './components/navbar';
 import { BrowserRouter as Router, Switch , Route} from 'react-router-dom';
 import './App.css';
+import { Button } from './components/button';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <Navbar/>
       <Switch>
       <Route path='/' exact />
-
+      
       </Switch>
       </Router>
   </>  
